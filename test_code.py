@@ -1,1 +1,2 @@
-"print('This is a test code')" 
+age = 26
+print (age)
